@@ -1,4 +1,3 @@
-# customer-segmentation
 
 # **Customer-Segmentation**
 
